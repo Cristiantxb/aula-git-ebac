@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
+-Primeiro Nome: Cristian
+-Profissão: Analista de Qualidade
+-Cidade: Bauru/SP
+-O que faz nas horas vaga: Leio
 -Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Feedback sobre a plataforma de estudo da EBAC: Muito boa
 
 Obrigado!!!
 
